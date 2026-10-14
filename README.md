@@ -46,3 +46,7 @@ jupyter notebook notebook.ipynb
 ## Caveats
 
 "Not high" is inferred from blank values in the data, and every recipe in it was already chosen by a person to be featured. The test set is 190 recipes, so the precision estimate has a margin of several points.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
