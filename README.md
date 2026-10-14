@@ -1,5 +1,7 @@
 # Which recipes bring traffic to the site?
 
+[![notebook](https://github.com/Sammyjoseph999/recipe-traffic/actions/workflows/notebook.yml/badge.svg)](https://github.com/Sammyjoseph999/recipe-traffic/actions/workflows/notebook.yml)
+
 A recipe website features one recipe on its home page each day, and a popular choice lifts traffic across the whole site. This project predicts which recipes will produce high traffic, with the goal of being right at least 80% of the time when it recommends one.
 
 <img src="images/category_rates.png" alt="High-traffic rate by recipe category" width="720">
